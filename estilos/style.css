@@ -12,6 +12,7 @@ LILÁS: #5f2c82
 }
 body {
     background-color: #5f2c82;
+    height: 100vh;
 }
 section h1{
     padding: 10px 0px;
