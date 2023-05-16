@@ -46,5 +46,8 @@ section > div#imagem {
     height: 200px;
 }
 section > div#formulario {
-    padding: 5px;
+    padding: 10px;
+}
+div#formulario h1 {
+    text-align: center;
 }
